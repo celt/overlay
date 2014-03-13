@@ -1,0 +1,31 @@
+# ChangeLog for x11-plugins/pidgin-window_merge
+# Copyright 1999-2012 Gentoo Foundation; Distributed under the GPL v2
+# $Header: $
+
+*pidgin-window_merge-0.3 (09 Aug 2012)
+
+  09 Aug 2012; Manuel Rüger (mrueg) gentoo@rueg.eu
+  -pidgin-window_merge-0.2_p20120531.ebuild, +pidgin-window_merge-0.3.ebuild:
+  Version bump, thanks to Tommy[D]
+
+*pidgin-window_merge-0.2_p20120531 (07 Jul 2012)
+
+  07 Jul 2012; Manuel Rüger (mrueg) gentoo@rueg.eu
+  -pidgin-window_merge-0.2_p20120420.ebuild,
+  +pidgin-window_merge-0.2_p20120531.ebuild:
+  Version bump for x11-plugins/pidgin-window_merge
+
+  05 May 2012; Mike Gilbert <floppym@gentoo.org>
+  pidgin-window_merge-0.2_p20120420.ebuild:
+  Use pkgconfig virtual.
+
+  29 Apr 2012; Manuel Rüger (mrueg) gentoo@rueg.eu
+  pidgin-window_merge-0.2_p20120420.ebuild:
+  Drop usage of git-2 eclass and pull generated tarball, thanks to floppym
+
+*pidgin-window_merge-0.2_p20120420 (22 Apr 2012)
+
+  22 Apr 2012; Manuel Rüger (mrueg) gentoo@rueg.eu
+  +pidgin-window_merge-0.2_p20120420.ebuild, +metadata.xml:
+  New Ebuild for bug #412149 thanks to hasufell and floppym
+
