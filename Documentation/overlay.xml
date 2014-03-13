@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+	<overlay
+	       	type = "git"
+	        src = "git://github.com/celt/overlay.git"
+	        contact = "celt[dot]alexander[at]gmail[dot]com"
+	        name = "celt-overlay">
+		<link>http://github.com/celt/overlay</link>
+		<description>Some-ebuld for personal usage</description>
+	</overlay>
+</layman>
