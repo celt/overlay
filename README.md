@@ -1,7 +1,7 @@
 overlay
 =======
 
-custom gentoo ebuilds for personal using
+custom gentoo ebuilds for personal using, May containts obsolete ebuild.
 
 #How to use with layman
 ```bash
